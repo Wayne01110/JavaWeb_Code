@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tomcat-demo1" />
+        <module name="tomcat-demo2" />
+        <module name="aiax-demo" />
+        <module name="request-demo" />
+        <module name="brand-demo" />
+        <module name="vue-demo" />
+        <module name="cookie-demo" />
+        <module name="brand-demo2" />
+        <module name="maven-demo" />
+        <module name="filter-demo" />
+        <module name="brand-case" />
+        <module name="jsp-demo" />
+        <module name="mybatis-demo" />
+        <module name="web-demo" />
+        <module name="maven-project" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="JavaWeb_Code" target="17" />
+      <module name="requset-demo" target="17" />
+      <module name="resquest-demo" target="1.7" />
+      <module name="tttt" target="17" />
+      <module name="untitled" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

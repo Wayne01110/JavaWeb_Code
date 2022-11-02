@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/html/css-demo/css-demo.iml" filepath="$PROJECT_DIR$/html/css-demo/css-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/html/html-demo/html-demo.iml" filepath="$PROJECT_DIR$/html/html-demo/html-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/http/http.iml" filepath="$PROJECT_DIR$/web/http/http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jbdc/jbdc-Demo/jbdc-Demo.iml" filepath="$PROJECT_DIR$/jbdc/jbdc-Demo/jbdc-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javascript/js-demo/js-demo.iml" filepath="$PROJECT_DIR$/javascript/js-demo/js-demo.iml" />
+    </modules>
+  </component>
+</project>
